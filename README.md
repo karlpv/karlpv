@@ -1,5 +1,5 @@
 ### Hi there 👋
-![GET ME](https://files.slack.com/files-pri/T05U9UJ5MUN-F064CKE3Z97/here.webp)
+![alt](https://files.slack.com/files-pri/T05U9UJ5MUN-F064CKE3Z97/here.webp)
 <!--
 **karlpv/karlpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
