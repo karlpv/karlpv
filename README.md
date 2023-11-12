@@ -1,4 +1,7 @@
-![alt](https://artfiles.alphacoders.com/151/thumb-151286.jpg)
+
+<a href="http://git.liveemily.xyz/emily">
+   <img align="left" src="https://avatars.githubusercontent.com/u/52530023?s=400&u=e12dca11f0b28ede37321a430732896cbf68edb4&v=4" alt="pfp" width="260" height="260" id="pfp">
+</a>
 
 ```cs
 - Accept everything just the way it is.
