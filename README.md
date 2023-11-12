@@ -13,8 +13,6 @@
 - In all things have no preferences.
 - Never stray from the Way.
 - To know ten thousand things, know one well
-- Preoccupied with a single leaf, you won't see the tree.
-  Preoccupied with a single tree, you'll miss the entire forest.
 - The dark days are here.
 - Gyat
 ```
