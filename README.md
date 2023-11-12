@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt](https://files.slack.com/files-pri/T05U9UJ5MUN-F064CKE3Z97/here.webp)
+![alt](https://preview.redd.it/just-musashi-happy-and-smiling-v0-x7eewxm5rx591.jpg?width=640&crop=smart&auto=webp&s=f90b42e7f70a0438479e3cd712b4909d3fc9dbf3)
 <!--
 **karlpv/karlpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
