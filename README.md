@@ -1,6 +1,6 @@
 
 <a href="http://git.liveemily.xyz/emily">
-   <img align="left" src="https://avatars.githubusercontent.com/u/52530023?s=400&u=e12dca11f0b28ede37321a430732896cbf68edb4&v=4" alt="pfp" width="260" height="260" id="pfp">
+   <img align="right" src="https://media.tenor.com/ZQxFE3_yJ2YAAAAM/future-thinking.gif" alt="pfp" width="260" height="260" id="pfp">
 </a>
 
 ```
